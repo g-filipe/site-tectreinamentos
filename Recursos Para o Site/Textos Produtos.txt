@@ -1,0 +1,69 @@
+Texto PHP
+
+Seja muito bem vindo ao curso completo de desenvolvimento de sites com as principais linguagens de Marcação e Programação disponíveis no Mercado.
+
+Este curso te levará do absoluto ZERO até a publicação de um projeto de site, onde faremos a Marcação HTML, a Formatação em CSS e a Programação em PHP.
+
+Este curso para iniciantes foi criado por professor que trabalha há mais de 16 anos na área de desenvolvimento e ministrando aulas sobre o assunto, ou seja, sabe muito a dificuldade que iniciantes enfrentam na hora de começar na área de desenvolvimento.
+
+OBS: Curso também conta com um material completo de conexão e uso de Bancos de Dados MySQL para iniciantes.
+
+Aqui tudo será explicado passo - a - passo de forma que você mesmo será capaz de desenvolver seus próprios projetos de maneira simples e criar um conteúdo para apresentar.
+
+Aqui teremos os primeiros passos fundamentais para todos que desejam ingressar na área de desenvolvimento, fundamental para que já estuda ou deseja estudar TI e afins como Análise de Sistemas por exemplo.  
+
+Aprenda desde o primeiro código em HTML - Linguagem de marcação Front End que permite desenvolver toda a parte visual de uma aplicação, ou seja, a aparência do site.
+
+Em conjunto com HTML vamos entender como funciona o CSS que é uma linguagem de formatação que aplicada ao desenvolvimento da estrutura HTML permite uma formatação incrível com a personalização de textos, imagens e áreas específicas de uma aplicação WEB.
+
+Aqui vamos entender como desenvolver um código limpo e separado por seletores (CSS) que permitem um perfeito entendimento mesmo que você seja um absoluto iniciante com muita força de vontade.
+
+
+Texto Google
+Curso completo de anúncios com Google e Facebook Ads.
+
+Olá, seja muito bem vindo ao curso de Marketing Digital com as ferramentas mais utilizadas da atualidade.
+
+Aqui você aprenderá com profissional atuante na área, onde serão mostrados e abordados exemplos REAIS e na PRÁTICA tudo passo a passo para você que é iniciante e deseja impactar milhares de pessoas na internet.
+
+Linguagem simples e direta para quem não tem tempo a perder.
+
+Neste curso vamos partir do mais absoluto ZERO para iniciantes na área de marketing digital.
+
+Desenvolveremos as propagandas mais eficientes do mercado com a Rede de pesquisa e Rede Display para parceiros Google.
+
+Na rede display será mostrado um passo a passo completo para criar anúncios gráficos (com imagens ou até mesmo o logotipo de sua empresa).
+
+A vantagem de anúncios gráficos é justamente o fato de serem responsivos, ou seja, funcionarão em qualquer dispositivo seja ele um celular ou até mesmo uma televisão aumentando muito seu alcance e a chances de sucesso.
+
+O que é ideal para empreendedores que precisam ter ou mesmo melhorar sua presença digital.
+
+Ideal também para afiliados de produtos digitais que terão a oportunidade de divulgar seus links de afiliação para milhares de pessoas com campanhas altamente otimizadas da plataforma Google Ads.
+
+Neste curso abordaremos, além das já citadas campanhas Google, o importante FACEBOOK ADS que visa mostrar seus anúncios também nas redes sociais permitindo alcançar centenas de pessoas que podem estar interessadas em seus produtos.
+
+Não perca mais tempo e inscreva - se agora mesmo neste curso completo e totalmente atualizado para o sucesso de seus negócios sejam eles digitais ou mesmo físicos.
+
+O curso conta com garantia total de 30 dias e suporte completo para tirar suas eventuais dúvidas.
+
+
+
+
+Texto Dreamweaver
+Já imaginou desenvolver sites com aparência profissional mesmo sem conhecer códigos?
+
+Exibir produtos e serviços na internet, com todas as vantagens que um site institucional oferece?
+
+Prestar serviços como desenvolvedor de Sites?
+
+Então este curso é ideal para você e suas necessidades!
+
+Conheça aqui o Dreamweaver 2021, um poderoso Software para desenvolvimento de sites que permite a criação e edição Profissional de sites com ou sem sem códigos, utilizando apenas cliques.
+
+Neste curso você irá editar e publicar um projeto completo utilizando um tema Profissional HTML e CSS gratuito disponível na internet e de quebra dará o seu primeiro passo para ingressar na carreira de desenvolvedor Front End.
+
+Os Profissionais Front End são responsáveis, entre outras coisas, pelo desenvolvimento de toda a parte visual de um site fazendo a leitura de códigos e tornando o projeto possível utilizando com eficiência a ferramenta Dreamweaver da Adobe já na versão 2021.
+
+Este é com certeza o curso mais completo sobre o assunto de desenvolvimento de sites com Dreamweaver.
+
+

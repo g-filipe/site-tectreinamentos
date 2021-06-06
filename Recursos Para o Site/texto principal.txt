@@ -1,0 +1,38 @@
+Neste curso vamos criar um jogo 2D completo no estilo Runner.
+
+Todo o processo de criação será explicado passo - a passo desde os componentes do jogo até as nuances de configurações que serão necessárias, como eventos e ações que geram as interatividades de um jogo, bem como fontes de Gráficos e elementos de games TOTALMENTE GRATUITOS E LICENCIADOS DISPONÍVEIS NA INTERNET.
+
+O diferencial está no fato de que não vamos utilizar programação de computadores, mais apenas a sua lógica para que seja possível configurar os eventos necessários para o funcionamento de um Game completo.
+
+Vamos desenvolver ao máximo o raciocínio lógico que permite desenvolver jogos, tais como eventos sensíveis ao toque (Touch Screen) e efeitos de tela que mostram ao jogador o uma reação ao que ele faz dentro do Game. 
+
+A publicação do jogo será feita de forma simples e gratuita, tornando ainda possível a execução em Sistemas Windows, Android e iOS e teremos um link (como de um site por exemplo) que você poderá divulgar em suas redes Sociais! 
+
+As aulas são pensadas em iniciantes que nunca tiveram contato com a criação de um software de entretenimento, mais também serão muito bem aproveitadas por pessoas que já tem experiência no desenvolvimento mais não conhecem o motor de jogos (game engine) Construct 2 abordado aqui.
+
+Vamos utilizar apenas ferramentas gratuitas disponíveis na internet, possibilitando o desenvolvimento sem custos e acessível para todas as pessoas que tem vontade de ingressar na carreira de desenvolvimento de jogos, os conhecidos game designers.
+
+Com os conhecimentos deste curso você será capaz de criar também outros games, com as mesmas mecânicas ou até inventar novas, tornando se (quem sabe) um autor de Games de Muito sucesso!
+
+Não perca mais tempo, inscreva - se agora mesmo e dê o primeiro passo na área de desenvolvimento de jogos em um curso rápido, completo e altamente dinâmico.
+
+O que é abordado nessa jornada?
+
+Download de gráficos gratuitos disponíveis na internet
+
+Instalação de Software
+
+Configuração de telas
+
+Configurações de comandos touch screen e mouse
+
+Animações de Frames para movimentação de Personagens
+
+Criação de diversos estágios 
+
+Tela Inicial
+
+Eventos de Game
+
+Te vejo lá. 
+
